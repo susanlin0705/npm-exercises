@@ -26,6 +26,7 @@
     "babel-preset-env": "^1.7.0",
     "jquery": "^3.4.1",
     "pokemon": "^2.0.0",
+    "pokemon-gif": "^1.0.14",
     "simple-get": "^3.0.3",
     "webpack": "^4.36.1"
   },
