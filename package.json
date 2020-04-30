@@ -24,7 +24,7 @@
     "@babel/preset-env": "^7.5.5",
     "babel-loader": "^8.0.6",
     "babel-preset-env": "^1.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "pokemon": "^2.0.0",
     "pokemon-gif": "^1.0.14",
     "simple-get": "^3.0.3",
