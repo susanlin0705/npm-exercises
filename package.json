@@ -27,7 +27,7 @@
     "jquery": "^3.4.1",
     "pokemon": "^2.0.0",
     "pokemon-gif": "^1.0.14",
-    "simple-get": "^3.0.3",
+    "simple-get": "^4.0.1",
     "webpack": "^4.36.1"
   },
   "devDependencies": {
